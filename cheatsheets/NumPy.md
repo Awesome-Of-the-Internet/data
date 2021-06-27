@@ -118,7 +118,132 @@ ranarr.dtype
 ![](https://woosal.com/1337/chrome_vtT0XvhTVo.png)
 
 ```python
+arr[0:5] = 100
+```
+![](https://woosal.com/1337/chrome_V9syzQf0q9.png)
+
+```python
+arr = np.random.randint(1, 100, (5,5))
+arr[:2,:2]
+```
+![](https://woosal.com/1337/chrome_u78McGDCNS.png)
+
+```python
+arr >= 5
+```
+![](https://woosal.com/1337/chrome_RJeEjBeRnp.png)
+
+```python
+arr[arr >= 5]
+```
+![](https://woosal.com/1337/chrome_CnMvSlEPVi.png)
+
+```python
+arr2d[2:4, 3:5]
+```
+![](https://woosal.com/1337/chrome_VMrONYFnGT.png)
+
+```python
+arr + arr
+```
+![](https://woosal.com/1337/chrome_xtecv9sfnq.png)
+
+```python
+arr - arr
+```
+![](https://woosal.com/1337/chrome_ylIMx0bZUF.png)
+
+```python
+arr * arr
+```
+![](https://woosal.com/1337/chrome_uMzZg0A6wU.png)
+
+```python
+arr / arr 
+```
+![](https://woosal.com/1337/chrome_KBFoo1I0h1.png)
+
+```python
+1 / arr
+```
+![](https://woosal.com/1337/chrome_jnZhJJtfrD.png)
+
+```python
+arr ** 2
+```
+![](https://woosal.com/1337/chrome_vd6sbszLLv.png)
+
+```python
+np.sqrt(arr)
+```
+![](https://woosal.com/1337/chrome_Ckdbx4p6on.png)
+
+```python
+np.exp(arr)
+```
+![](https://woosal.com/1337/chrome_1uipqt8Nso.png)
+
+```python
+np.max(arr) == arr.max()
+np.max(arr)
+```
+![](https://woosal.com/1337/chrome_SFd2rgBfwe.png)
+
+```python
+np.sin(arr)
+```
+![](https://woosal.com/1337/chrome_2l2z2Up451.png)
+
+```python
+np.log(arr)
+```
+![](https://woosal.com/1337/chrome_72J5VxVUJk.png)
+
+```python
 ```
 
 ```python
 ```
+
+```python
+```
+
+```python
+```
+
+```python
+```
+	
+```python
+```
+
+```python
+```
+
+```python
+```
+
+```python
+```
+
+```python
+```
+
+```python
+```
+
+```python
+```
+
+```python
+```
+
+```python
+```
+
+```python
+```
+
+```python
+```
+
