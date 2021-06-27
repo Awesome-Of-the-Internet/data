@@ -80,25 +80,42 @@ arr.reshape(5,5)
 ![](https://woosal.com/1337/chrome_4w3Y4dx4Ea.png)
 
 ```python
+ranarr.min()
 ```
+![](https://woosal.com/1337/chrome_jaMu7T6CTe.png)
 
 ```python
+ranarr.max()
 ```
+![](https://woosal.com/1337/chrome_LosmdYwpaF.png)
 
 ```python
-```
+ranarr.argmax()
+```	
+##### Returns the index position of the max value of the array. 
+![](https://woosal.com/1337/chrome_36fPAWooh6.png)
+
 
 ```python
+ranarr.argmin()
 ```
+##### Returns the index position of the min value of the array.
+![](https://woosal.com/1337/chrome_yRgRrvDk8h.png)
 
 ```python
+ranarr.shape
 ```
+![](https://woosal.com/1337/chrome_l3Mg663aCD.png)
 
 ```python
+ranarr.reshape((1, 25))
 ```
+![](https://woosal.com/1337/chrome_WGwz0TR86A.png)
 
 ```python
+ranarr.dtype
 ```
+![](https://woosal.com/1337/chrome_vtT0XvhTVo.png)
 
 ```python
 ```
