@@ -122,20 +122,3 @@ ranarr.dtype
 
 ```python
 ```
-
-
-
-
-
-
-# Pandas
-### Cheatsheet
-
-# Matplotlib
-### Cheatsheet
-
-#
-###
-
-#
-###
