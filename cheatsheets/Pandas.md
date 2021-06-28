@@ -124,16 +124,25 @@ df.iloc[[0,1],
 ![](https://woosal.com/1337/Code_L5C1Sh9gfB.png)
 
 ```python 
+df > 0
 ```
+![](https://woosal.com/1337/Code_tTPbHJ0X22.png)
 
 ```python 
+df[df > 0]
 ```
+![](https://woosal.com/1337/Code_zEdfs6ZlS9.png)
 
 ```python 
+df["W"][df["W"] > 0]
 ```
+![](https://woosal.com/1337/Code_14bgAwTmp7.png)
 
 ```python 
+df[df["W"] > 0]
+df[df["Z"] < 0]
 ```
+![](https://woosal.com/1337/Code_0Vo1CfD2ET.png)
 
 ```python 
 ```
