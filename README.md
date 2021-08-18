@@ -1,10 +1,11 @@
 # 🧪 Data Science
  
 # [notes](/notes/README.md)
-# [main](/main/README.md)
-# [cheatsheets](/cheatsheets/README.md)
-# [codes](/codes/README.md)
-# [projects](/projects/README.md)
+# [main](/main/)
+# [cheatsheets](/cheatsheets/)
+# [codes](/codes/)
+# [projects](/projects/)
+# [books](/books/README.md)
 
 ```
 Data Science Resources
