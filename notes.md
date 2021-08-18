@@ -8,21 +8,3 @@ Anything under 0.5 is 0, 0.5 is 1, anything above is 1.
 False Positive Rate (FPR) = (False Positives) / (False Positives + True Negatives)
 
 False Negative Rate (FNR) = (False Negatives) / (False Negatives + True Positives)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
