@@ -1,10 +1,10 @@
 # 🧪 Data Science
  
 # [notes](/notes/README.md)
-# [main](/main/)
-# [cheatsheets](/cheatsheets/)
-# [codes](/codes/)
-# [projects](/projects/)
+# [main](/main/README.md)
+# [cheatsheets](/cheatsheets/README.md)
+# [codes](/codes/README.md)
+# [projects](/projects/README.md)
 # [books](/books/README.md)
 
 ```
