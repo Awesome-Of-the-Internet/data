@@ -1,33 +1,8 @@
-# 🧪 Data Science
- 
-# [notes](/notes/README.md)
-# [main](/main/README.md)
-# [cheatsheets](/cheatsheets/README.md)
-# [codes](/codes/README.md)
-# [projects](/projects/README.md)
-# [books](/books/README.md)
+<div align="center">
+ <h1>data</h1>
+ <h3>🧪 data and data science notes go here.</h3>
+</div>
 
-```
-Data Science Resources
-    Foundational Skills
-        Programming and Data Wrangling
-        Statistics and Probability
-    Technical Skills
-        Data Collection
-        SQL
-        Data Visualization
-        Applied Machine Learning
-    Business Skills
-        Communication
-        Creativity and Innovation
-        Operations and Strategy
-        Business Analytics
-    Supplementary Skills
-        Natural Language Processing
-        Recommendation Systems
-        Time Series Analysis
-    Practice
-        Projects
-        Competitions
-        Problem Solving Challenges
-```
+<div align="center">
+ <h4><a href="/notes/README.md">notes</a> | <a href="/main/README.md">main</a> | <a href="/cheatsheets/README.md">cheatsheets</a> | <a href="/codes/README.md">codes</a> | <a href="/projects/README.md">projects</a> | <a href="/books/README.md">books</a> 
+</div>
